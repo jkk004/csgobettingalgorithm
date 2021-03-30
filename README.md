@@ -20,3 +20,5 @@ https://liquipedia.net/counterstrike/S-Tier_Tournaments
 -Another important stat to look at was clutches, but the stat isn't as readily available like headshot percengage, kd ratio, etc. Stats are available on hltv
 
 -Match results in the last ten games was a good indicator of success too. The stat is available on liquidpedia
+
+-The current meta is for one player to carry the whole team. In ESL Pro League Season 13, Device popped off to carry Astralis in Group D against Team Liquid in the playoffs and other teams during the play ins
