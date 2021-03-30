@@ -21,4 +21,4 @@ https://liquipedia.net/counterstrike/S-Tier_Tournaments
 
 -Match results in the last ten games was a good indicator of success too. The stat is available on liquidpedia
 
--The current meta is for one player to carry the whole team. In ESL Pro League Season 13, Device popped off to carry Astralis in Group D against Team Liquid in the playoffs and other teams during the play ins
+-The current meta is for one player to carry the whole team. In ESL Pro League Season 13, Device popped off to carry Astralis in Group D against Team Liquid in the playoffs and other teams during the play ins. However, if that one carry falters, the whole team will likely falter. Therefore, it is important to see the rating of the top player on each team in the past 3 months, 10 games, etc. and compare each other.
