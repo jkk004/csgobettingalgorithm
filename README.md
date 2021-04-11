@@ -31,4 +31,6 @@ https://liquipedia.net/counterstrike/S-Tier_Tournaments
 -Then Gambit wins and Navi wins
 -We see a grand final of Gambit vs Navi and Gambit wins
 -Will this prediction work based on my stats
-
+-Heroic won, Gambit Won, Furia Won, Team Liquid Won, Navi Lost, Virtus Pro Won 
+-Heroic won again, Gambit won again, Furia Won, Ninja in Pajamas won,
+-Gambit won and Heroic won so its a Heroic vs Gambit Final. My predictions overall weren't too bnad
